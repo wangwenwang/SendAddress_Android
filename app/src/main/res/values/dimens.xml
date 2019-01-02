@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="yb_text_size_16">16sp</dimen>
+    <dimen name="yb_text_size_15">15sp</dimen>
+    <dimen name="yb_text_size_14">14sp</dimen>
+    <dimen name="all_title_size">18sp</dimen>
+    <dimen name="all_title_high">48dp</dimen>
+    <dimen name="all_title_left_img">40dp</dimen>
+    <dimen name="all_title_left_img_marginleft">12dp</dimen>
+</resources>

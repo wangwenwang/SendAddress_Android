@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="yb_main_text_black">#333333</color>
+    <color name="line_color">#d1d0d0</color>
+    <color name="yb_fragment_my_bg">#F5f5f5</color>
+    <color name="yb_main_color_bg">#ffffff</color>
+    <color name="yb_main_color">#0094D7</color>
+    <color name="yb_main_text_gray_9">#999999</color>
+</resources>
